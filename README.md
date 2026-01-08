@@ -1,6 +1,6 @@
 # EmployeeManagementSystemEduceAssignment
-I have developed this application using ASP.NET Core 8 and SQL Server. The database is connected to the application, and the dropdown lists are dynamically populated from database tables.
+This application has been developed using ASP.NET Core 8 with a SQL Server database. The dropdown lists in the application are populated directly from the database tables.
 
-Before running the application, it is mandatory to execute the SQL scripts to create the required database objects and seed the necessary data.
+Before launching the application, it is essential to run the SQL scripts to create the required database objects and insert the necessary data.
 
-I have implemented Data Annotations for validation, so all data must be entered strictly according to the defined validation rules.
+Data Annotations have been implemented for validation, so all inputs must strictly comply with the defined validation rules.
